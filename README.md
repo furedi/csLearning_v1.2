@@ -1,6 +1,4 @@
-# csLearning_v1.2
-## C# oktatóanyag 2012
-
+# csLearning_v1.2 oktatóanyag 2012
 A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehetséges interaktív eszköze. A keretprogram jelenlegi állapotában 10 leckét és egy feladatgyűjteményt tartalmaz, melyet a tanulás közben is futtatható és módosítható példaprogramok egészítenek ki. [Prezi...](https://prezi.com/uuwkkzuyxepz/cslearning-cs-oktatoanyag/?present=1)
 
 ## Rendszerkövetelmények
@@ -17,7 +15,7 @@ A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehe
 A keretprogram tervezése 2011 őszén egy folyosói beszélgetés eredményeként indult el, majd a téli szünet során készült el az első működő implementáció, melyből aztán 2012 tavaszán állt össze a diákok által is használatba vett változat. Az INFO Éra 2012 konferencián bemutatásra került az oktatóanyag 10. évfolyamos középiskolai programozás tanításban való alkalmazhatósága, illetve a keretrendszer tanyanyagfejlesztési lehehetősége. 2016-ig használban maradt az informatika ágazati képzésben, majd a szakgimnáziumi képzésben kiváltotta a Java programnyelv oktatása.
 
 ## Megosztás
-1. [cslpr.blogspot.com 2020-ig](http://cslpr.blogspot.com/)
-1. [https://github.com](https://github.com)
+1. [https://github.com/furedi/csLearning_v1.2](https://github.com/furedi/csLearning_v1.2)
 1. [http://math.uni-pannon.hu/~lipovitsa/prg_uj/csharp_oktato.zip](http://math.uni-pannon.hu/~lipovitsa/prg_uj/csharp_oktato.zip)
+1. Elavult (deprecated): [cslpr.blogspot.com 2020-ig](http://cslpr.blogspot.com/)
 
