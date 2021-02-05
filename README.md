@@ -17,5 +17,5 @@ A keretprogram tervezése 2011 őszén egy folyosói beszélgetés eredményeké
 ## Megosztás
 1. [https://github.com/furedi/csLearning_v1.2](https://github.com/furedi/csLearning_v1.2)
 1. [http://math.uni-pannon.hu/~lipovitsa/prg_uj/csharp_oktato.zip](http://math.uni-pannon.hu/~lipovitsa/prg_uj/csharp_oktato.zip)
-1. Elavult (deprecated): [cslpr.blogspot.com 2020-ig](http://cslpr.blogspot.com/)
+1. Elavult (deprecated): [cslpr.blogspot.com](http://cslpr.blogspot.com/)
 
