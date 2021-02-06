@@ -1,5 +1,6 @@
 # csLearning_v1.2 C# oktatóanyag 2012
-A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehetséges interaktív eszköze. A keretprogram jelenlegi állapotában 10 leckét és egy feladatgyűjteményt tartalmaz, melyet tanulás közben is futtatható és módosítható példaprogramok egészítenek ki. [Kattintás és Prezi...](https://prezi.com/uuwkkzuyxepz/cslearning-cs-oktatoanyag/?present=1)
+A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehetséges interaktív eszköze. A keretprogram osztott munkaablakának bal oldalán a HMTL kódolású tananyag, jobb oldalán az adott témához tartozó tanulás közben is futtatható és módosítható példaprogramok kezelhetők. Jelenlegi állapotában 10 leckét és egy feladatgyűjteményt tartalmaz.
+* [Kattintás és Prezi...](https://prezi.com/uuwkkzuyxepz/cslearning-cs-oktatoanyag/?present=1)
 
 ## Történet
 A keretprogram tervezése 2011 őszén egy folyosói beszélgetés eredményeként indult el, majd a téli szünet során készült el az első működő implementáció, melyből aztán 2012 tavaszán állt össze a diákok által is használatba vett változat. Még ebben az évben az INFO Éra 2012 konferencián bemutatásra került az oktatóanyag 10. évfolyamos középiskolai programozás tanításban való alkalmazhatósága, illetve a keretrendszer tanyanyagfejlesztési lehehetősége. A csLearnig v1.2 2016-ig használatban maradt, aztán az új szakgimnáziumi képzésben kiszorította a Java.
