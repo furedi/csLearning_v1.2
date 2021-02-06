@@ -19,7 +19,7 @@ A csLearnig v1.2 ma is használható, bár a mintaprogramok futtatása közben a
 1. A **diákok számára** összeállított csLearning keretprogram és tananyag kicsomagolás után a rendszerkövetelmények teljesülése esetén azonnal használatba vehető: **[csLearning_v1.2_student_20121115.zip](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_student_20121115.zip)**
 1. A felhasználók számára készült **leírás** a csLearning keretprogram használatához: **[csLearning_v1.2_user_guide_20121115.pdf](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_user_guide_20121115.pdf)**
 
-FIGYELEM: A keretrendszer a 2012-es állapotnak megfelelő metódus hívásokat használ, így a mintaprogramok futásakor az elavult hívásoknál hibaüzenet jelenik meg, illetve a forráskód futtatásakor a víruskereső folyamatosan ellenőrzi a generált kódot. (2021.02.06)
+FIGYELEM: **A keretrendszer a 2012-es állapotnak megfelelő metódus hívásokat használ**, ezért az elavult hívásoknál hibaüzenet jelenhet meg. A forráskód fordítása és futtatása közben a víruskereső folyamatosan ellenőrzi a generált kódot, és ezt felbukkanó ablakban jelzi is. (2021.02.06)
 
 ## Megosztás
 1. [https://github.com/furedi/csLearning_v1.2](https://github.com/furedi/csLearning_v1.2)
