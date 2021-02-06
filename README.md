@@ -16,7 +16,7 @@ A csLearnig v1.2 ma is használható, bár a mintaprogramok futtatása közben a
 
 ## Letöltések
 1. A fejlesztők és tanárok számára összeállított csLearning **forráskód és tananyag** kicsomagolás után a rendszerkövetelmények teljesülése esetén a **Microsoft Visual Studio 2010 fejlesztőrendszerrel** használható: **[csLearning_v1.2_source_20121115.zip](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_source_20121115.zip)**
-1. A **diákok számára** összeállított csLearning keretprogram és tananyag kicsomagolás után a rendszerkövetelmények teljesülése esetén azonnal használatba vehető: **[csLearning_v1.2_student_20121115.zip](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_student_20121115.zip)**
+1. A **diákok számára** összeállított csLearning keretprogram és tananyag kicsomagolás után a rendszerkövetelmények teljesülése esetén **azonnal használatba vehető**: **[csLearning_v1.2_student_20121115.zip](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_student_20121115.zip)**
 1. A felhasználók számára készült **leírás** a csLearning keretprogram használatához: **[csLearning_v1.2_user_guide_20121115.pdf](https://github.com/furedi/csLearning_v1.2/blob/master/csLearning_v1.2_user_guide_20121115.pdf)**
 
 FIGYELEM: **A keretrendszer a 2012-es állapotnak megfelelő metódus hívásokat használ**, ezért az elavult hívásoknál hibaüzenet jelenhet meg. A forráskód fordítása és futtatása közben a víruskereső folyamatosan ellenőrzi a generált kódot, és ezt felbukkanó ablakban jelzi is. (2021.02.06)
