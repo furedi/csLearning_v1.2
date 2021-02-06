@@ -1,5 +1,5 @@
 # csLearning_v1.2 C# oktatóanyag 2012
-A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehetséges interaktív eszköze. A keretprogram osztott munkaablakának bal oldalán a HMTL kódolású tananyag, jobb oldalán az adott témához tartozó tanulás közben is futtatható és módosítható példaprogramok kezelhetők. Jelenlegi állapotában 10 leckét és egy feladatgyűjteményt tartalmaz.
+A csLearning projekt a C# programnyelv tanulásának és tanításának egy lehetséges interaktív eszköze. A keretprogram osztott munkaablakának bal oldalán a HMTL kódolású tananyag, jobb oldalán az adott témához tartozó tanulás közben is futtatható és módosítható példaprogramok szerkeszthetőek. Jelenlegi állapotában 10 leckét és egy feladatgyűjteményt tartalmaz.
 * [Kattintás és Prezi...](https://prezi.com/uuwkkzuyxepz/cslearning-cs-oktatoanyag/?present=1)
 
 ## Történet
